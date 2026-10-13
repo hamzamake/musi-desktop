@@ -1,3 +1,3 @@
 # musi-desktop
 
-a music app for musi(https://feelthemusi.com)
+a music app for [musi](https://feelthemusi.com)
